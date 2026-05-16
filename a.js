@@ -1,4 +1,4 @@
-const age = 17;
+const age = 27;
 
 if (age >= 18) {
   console.log("Adult");
